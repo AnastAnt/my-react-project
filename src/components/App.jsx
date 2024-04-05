@@ -9,6 +9,7 @@ const Product = () => {
 
 export default function App() {
   return (
+    return <button onClick={() => alert("I'm a button!")}>Click me!</button>;
     <div>
       <h1>Products</h1>
 
